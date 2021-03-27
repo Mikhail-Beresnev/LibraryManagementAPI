@@ -1,0 +1,18 @@
+{
+  "ids": {
+    "User": 4,
+    "UserCredentials": 4
+  },
+  "models": {
+    "User": {
+      "be7edf8b-f025-40c8-813a-84ad1ca77d26": "{\"id\":\"be7edf8b-f025-40c8-813a-84ad1ca77d26\",\"email\":\"testuser2@abc.com\"}",
+      "99a655f9-57d5-46c8-8c32-5803b8359f42": "{\"id\":\"99a655f9-57d5-46c8-8c32-5803b8359f42\",\"email\":\"test@test.com\"}",
+      "a40af55c-ad00-4c40-8b5f-96df8e5f627a": "{\"id\":\"a40af55c-ad00-4c40-8b5f-96df8e5f627a\",\"email\":\"test123@test.com\"}"
+    },
+    "UserCredentials": {
+      "3cdcf30d-548e-485b-b1a5-3b9449166a94": "{\"id\":\"3cdcf30d-548e-485b-b1a5-3b9449166a94\",\"password\":\"$2a$10$4hwy/1vDM7FGlesFQs24RO34ZWo6LYuQhjfIZPTqBIJufN96xKnXq\",\"userId\":\"be7edf8b-f025-40c8-813a-84ad1ca77d26\"}",
+      "d01fabe0-f3cc-4a18-a48d-0fc5f50b2ee1": "{\"id\":\"d01fabe0-f3cc-4a18-a48d-0fc5f50b2ee1\",\"password\":\"$2a$10$3.zPhhOEZ7GP/V/bsEsQDe7F.Xz6uGWDTqM1..trYo.nAsG8iOasC\",\"userId\":\"99a655f9-57d5-46c8-8c32-5803b8359f42\"}",
+      "1810c430-9c21-4e63-b770-2713a32a278a": "{\"id\":\"1810c430-9c21-4e63-b770-2713a32a278a\",\"password\":\"$2a$10$HxugaRsSXOPlkin./gBKxOGD.1ZJGgt0G7Gw68k9WoPYlivN1JKZa\",\"userId\":\"a40af55c-ad00-4c40-8b5f-96df8e5f627a\"}"
+    }
+  }
+}
